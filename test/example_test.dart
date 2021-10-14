@@ -1,3 +1,5 @@
+import 'package:aqueduct_test/aqueduct_test.dart';
+
 import 'harness/app.dart';
 
 Future main() async {

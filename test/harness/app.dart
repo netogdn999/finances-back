@@ -1,10 +1,8 @@
-import 'package:server/server.dart';
 import 'package:aqueduct_test/aqueduct_test.dart';
+import 'package:server/server.dart';
 
 export 'package:server/server.dart';
-export 'package:aqueduct_test/aqueduct_test.dart';
 export 'package:test/test.dart';
-export 'package:aqueduct/aqueduct.dart';
 
 /// A testing harness for server.
 ///
